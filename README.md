@@ -12,7 +12,7 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vishalmahajan1521/MovieMetrix.git
+   git clone https://github.com/RashmitTopG/MovieMetrix.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -30,22 +30,6 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
    nltk.download('wordnet')
    ```
 
-## Usage
-
-1. Ensure the `Netflix Dataset.csv` file containing movie data is in the project directory.
-2. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-3. Use the sidebar to navigate between personalized recommendations, mood-based recommendations, and filtering options.
-4. Enter your preferences or mood and get instant movie recommendations!
-
-## Project Structure
-
-- `app.py`: The main application file.
-- `Netflix Dataset.csv`: The dataset containing movie information.
-- `requirements.txt`: A file listing the required Python packages.
-
 ## Technologies Used
 
 - **Streamlit** for building the web application
@@ -54,8 +38,4 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 - **TextBlob** for sentiment analysis
 - **NLTK** for text preprocessing
 
-## Screenshots
-
-Screenshots of the application can be viewed [here](https://drive.google.com/drive/folders/11e0_B-micW6CnJAnIs7srqiRglfBepQ4?usp=sharing).
-
-
+## Screenshots of the project have been uploaded above.
